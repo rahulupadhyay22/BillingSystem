@@ -34,15 +34,11 @@ To get a local copy up and running, follow these simple steps:
 
 2.	Navigate to the project directory:
    
-    cd billing-software
+    cd billing_app
   	
-3.	Install required dependencies:
+3.	Run the application:
 
-    pip install -r requirements.txt
-  	
-4.	Run the application:
-
-    python main.py
+    python bill.py
 
 # Future Enhancements:
 
